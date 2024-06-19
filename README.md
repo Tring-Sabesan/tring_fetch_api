@@ -5,4 +5,4 @@ This package fetches user data from the GitHub API.
 ## Installation
 
 ```sh
-npm install tring_fetch_api
+npm install tring_api_call
