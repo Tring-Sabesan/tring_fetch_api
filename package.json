@@ -1,0 +1,23 @@
+{
+  "name": "tring_fetch_api",
+  "version": "1.0.0",
+  "description": "we can do api call",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tring-Sabesan/tring_fetch_api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "sabesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tring-Sabesan/tring_fetch_api/issues"
+  },
+  "homepage": "https://github.com/Tring-Sabesan/tring_fetch_api#readme"
+}
